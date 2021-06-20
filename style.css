@@ -1,0 +1,10 @@
+.header{
+    background-color: rgb(255, 183, 0);
+    display: flex;
+}
+.body{
+    background-color: rgb(0, 0, 0);
+}
+li,p{
+    color: white;
+}
